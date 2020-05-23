@@ -1,0 +1,58 @@
+nav.menu ul li.btn{
+	display: inline-block;
+	list-style-type: none;
+	font-size: 35px;
+}
+
+nav.menu ul li.btn a{
+	color: white;
+	background-color: #BEA11F;
+	padding: 9px;
+	text-decoration: none;
+}
+
+nav.menu ul li.btn:hover a{
+	color: #BEA11F;
+	background-color: white;
+	transition: 0.3s all;
+}
+
+p#slogan{
+	color: #BEA11F;
+	font-size: 25px;
+}
+
+h1{
+	background-color: #BEA11F;
+	color: white;
+	padding : 25px;
+	font-size: 30px;
+}
+p#des{
+	font-size: 25px;
+	color:#B8B8AE;
+}
+
+p#texte{
+	margin-left: 200px;
+	margin-right: 200px;
+	color:#9C7C08;
+}
+
+p#titre{
+	background-color : #B8B8AE;
+	font-size: 30px;
+	color: white;
+	padding:15px;
+}
+
+p#soutenance{
+	background-color : #B8B8AE;
+	font-size: 30px;
+	color: white;
+	padding:15px;
+}
+
+a{
+	color:white;
+}

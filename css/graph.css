@@ -1,0 +1,51 @@
+nav.menu ul li.btn{
+	display: inline-block;
+	list-style-type: none;
+	font-size: 35px;
+}
+
+nav.menu ul li.btn a{
+	color: white;
+	background-color: #BEA11F;
+	padding: 9px;
+	text-decoration: none;
+}
+
+nav.menu ul li.btn:hover a{
+	color: #BEA11F;
+	background-color: white;
+	transition: 0.3s all;
+}
+
+p#slogan{
+	color: #BEA11F;
+	font-size: 25px;
+}
+
+p#description {
+	color:#B8B8AE;
+	font-size: 25px;
+}
+
+h1{
+	font-size:30px;
+	background-color: #BEA11F;
+	padding:25px;
+	color:white;
+}
+
+p#texte{
+	margin-left: 100px;
+	margin-right: 100px;
+	color :#9C7C08;
+}
+
+div#map p{
+	margin-right: 100px;
+	margin-left: 100px;
+	color:#9C7C08;
+}
+
+div#map img{
+	margin-top: 50px;
+}
